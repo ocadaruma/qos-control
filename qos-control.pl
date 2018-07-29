@@ -107,6 +107,8 @@ our @TRAFFIC_LIST = qw(
     4
     8
     16
+    100
+    500
 
 );
 
